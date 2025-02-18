@@ -48,7 +48,7 @@
 
 1. Now deploy.
     <br>
-    <a href='https://dashboard.heroku.com/new?template=https://github.com/Mselachui03/MSELA-CHUI-V2' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+    <a href='https://dashboard.heroku.com/new?template=https://github.com/Eliakimtech03/ELIAKIM_MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 
 
