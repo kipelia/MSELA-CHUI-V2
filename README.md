@@ -58,7 +58,7 @@
 ## ```Connect With Me```<img src="http://4.bp.blogspot.com/-XFYyg7bmXe0/UIU9Lt2jaNI/AAAAAAAABw8/UgxWDUoBkaw/s1600/tumblr_mbi70xxizM1r922azo1_500_large.gif">
  <br> 
 <p align="center">
-<a href="https://wa.me/260774358600"><img src="https://img.shields.io/badge/Contact Chui-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/260774358600"><img src="https://img.shields.io/badge/Contact Eliakim-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://whatsapp.com/channel/0029VablfKe9cDDZcDmkiN2G"><img src="https://img.shields.io/badge/Join Official channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
