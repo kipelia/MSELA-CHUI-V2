@@ -1,9 +1,9 @@
 {
-  "name":"MSELA-CHUI-V2 UPDATE BY ME",
-  "description":"Best WhatsApp Bot Developed By Mselachui Tech Contact me 260774358600, Thank you for choose MSELA-CHUI-V2",
+  "name":"ELIAKIM_MD UPDATE BY ME",
+  "description":"Best WhatsApp Bot Developed By Eliakimtech Tech Contact me 254745931715, Thank you for choose ELIAKIM_MD",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/b5e8a490b30177df71db0.jpg",
-  "repository":"https://github.com/Mselachui03/MSELA-CHUI-V2",
+  "repository":"https://github.com/Eliakimtech03/ELIAKIM_MD",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -35,7 +35,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"MSELA-CHUI-V2",
+      "value":"ELIAKIM_MD",
       "required":false
 
     } ,
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "MSELACHUI TECH🐯"
+    "value": "ELIAKIM TECH🐯"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "260774358600"
+    "value": "254745931715"
 	  
   },
     "WARN_COUNT":
