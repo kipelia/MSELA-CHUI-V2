@@ -6,29 +6,29 @@
  </p>
 <p align="center">
 <img src="https://telegra.ph/file/b5e8a490b30177df71db0.jpg"/> 
-<p align="center"><img src="https://profile-counter.glitch.me/{Eliakimtech03}/count.svg" alt="Mselachui03:: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{Eliakimtech03}/count.svg" alt="eliakimtech03:: Visitor's Count" /></p>
 <p align="center">
 <a href="https://github.com/Mselachui03/followers"><img title="Followers" src="https://img.shields.io/github/followers/Eliakimtech03?color=red&style=flat-square"></a>
 <a href="https://github.com/Mselachui03/ELIAKIM_MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Mselachui03/ELIAKIM_MD?color=blue&style=flat-square"></a>
 <a href="https://github.com/Eliakimtech03/ELIAKIM_MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Eliakimtech03/ELIAKIM_MD?color=red&style=flat-square"></a>
-<a href="https://github.com/Mselachui03/MSELA_CHUI-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Mselachui03/MSELA-CHUI-V2?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/Mselachui03/MSELA-CHUI-V2/"><img title="Size" src="https://img.shields.io/github/repo-size/Mselachui03/MSELA-CHUI-V2?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMselachui03%2Msela_Chui-Md&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/Mselachui03/MSELA-CHUI-V2/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/eliakimtech03/ELIAKIM_MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Eliakimtech03/ELIAKIM_MD?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Eliakimtech03/ELIAKIM_MD/"><img title="Size" src="https://img.shields.io/github/repo-size/Eliakimtech03/ELIAKIM_MD?style=flat-square&color=green"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEliakimtech03%2ELIAKIM_Md&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/Eliakimtech03/ELIAKIM_MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
     </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 
-### MR_MSELACHUI 🐯
+### MR_ELIAKIM 🐯
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+am+Mselachui+Tech..&hearts;++;Self-taught+Back-End+Developer,;From+Tanzania🇹🇿,;My+Hobby+Is+Coding,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..🖥️💻">
   </a>
 </p>
 
- ## MSELA-CHUI-V2 Deployment Methods
+ ## ELIAKIM_MD Deployment Methods
 
 ### 1. FORK THIS REPO
 
@@ -53,23 +53,23 @@
 
 
     <h2 align="center"> ⚠️ NOTE  </h2>
-## MSELA-CHUI-V2 SCRIPT IS NOT OPENLY ALLOWED TO USED IN ANY OF YOUR PROJECTS BE WARNED!!! 
+##ELIAKIM_MD SCRIPT IS NOT OPENLY ALLOWED TO USED IN ANY OF YOUR PROJECTS BE WARNED!!! 
 
 ## ```Connect With Me```<img src="http://4.bp.blogspot.com/-XFYyg7bmXe0/UIU9Lt2jaNI/AAAAAAAABw8/UgxWDUoBkaw/s1600/tumblr_mbi70xxizM1r922azo1_500_large.gif">
  <br> 
 <p align="center">
 <a href="https://wa.me/260774358600"><img src="https://img.shields.io/badge/Contact Chui-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://whatsapp.com/channel/0029VakhqAaLtOjBJOL9Wn1q"><img src="https://img.shields.io/badge/Join Official channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://whatsapp.com/channel/0029VablfKe9cDDZcDmkiN2G"><img src="https://img.shields.io/badge/Join Official channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
 
 <br>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-* [🧑‍💻 Follow MSELA-CHUI-V2 Whatsapp Channel🧑‍💻](https://whatsapp.com/channel/0029VakhqAaLtOjBJOL9Wn1q)
+* [🧑‍💻 Follow ELIAKIM_MD Whatsapp Channel🧑‍💻](https://whatsapp.com/channel/0029VablfKe9cDDZcDmkiN2G)
 
 
-* [✅ Join Public Group ⚡](https://chat.whatsapp.com/Bktj9P5WyZY1vgWyWvKi4a)
+* [✅ Join Public Group ⚡](https://chat.whatsapp.com/GL4SlCfL5WwKLuJudb6FsD)
 
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   
@@ -78,8 +78,8 @@
 - *In that case, I'm not responsible for banning your account.*
 - *Use MSELA-CHUI-V2 at your own risk by keeping this warning in mind.*
   
-  #### ```MSELA CHUI PROFILE VIEWS 🐯```
-![Visitor Count](https://profile-counter.glitch.me/Mselachui03/count.svg)
+  #### ```ELIAKIM_MD PROFILE VIEWS 🐯```
+![Visitor Count](https://profile-counter.glitch.me/Eliakimtech03/count.svg)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></
 ## THANKS = MY SELF 
@@ -89,10 +89,10 @@
 
 ## Support
 
-SUPPORT CHANNEL: <a href="https://whatsapp.com/channel/0029VakhqAaLtOjBJOL9Wn1q"><img src="https://img.shields.io/badge/Join Official channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+SUPPORT CHANNEL: <a href="https://whatsapp.com/channel/0029VablfKe9cDDZcDmkiN2G"><img src="https://img.shields.io/badge/Join Official channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
-### Please Give One Star ✨ & [follow me notify my updates 💗](https://github.com/Mselachui03)
+### Please Give One Star ✨ & [follow me notify my updates 💗](https://github.com/Eliakimtech03)
 <b>Version -> 2.0.0</b>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
