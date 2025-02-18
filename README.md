@@ -6,11 +6,11 @@
  </p>
 <p align="center">
 <img src="https://telegra.ph/file/b5e8a490b30177df71db0.jpg"/> 
-<p align="center"><img src="https://profile-counter.glitch.me/{Mselachui03}/count.svg" alt="Mselachui03:: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{Eliakimtech03}/count.svg" alt="Mselachui03:: Visitor's Count" /></p>
 <p align="center">
-<a href="https://github.com/Mselachui03/followers"><img title="Followers" src="https://img.shields.io/github/followers/Mselachui03?color=red&style=flat-square"></a>
-<a href="https://github.com/Mselachui03/MSELA-CHUI-V2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Mselachui03/MSELA-CHUI-V2?color=blue&style=flat-square"></a>
-<a href="https://github.com/Mselachui03/MSELA-CHUI-V2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Mselachui03/MSELA-CHUI-V2?color=red&style=flat-square"></a>
+<a href="https://github.com/Mselachui03/followers"><img title="Followers" src="https://img.shields.io/github/followers/Eliakimtech03?color=red&style=flat-square"></a>
+<a href="https://github.com/Mselachui03/ELIAKIM_MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Mselachui03/ELIAKIM_MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/Eliakimtech03/ELIAKIM_MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Eliakimtech03/ELIAKIM_MD?color=red&style=flat-square"></a>
 <a href="https://github.com/Mselachui03/MSELA_CHUI-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Mselachui03/MSELA-CHUI-V2?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/Mselachui03/MSELA-CHUI-V2/"><img title="Size" src="https://img.shields.io/github/repo-size/Mselachui03/MSELA-CHUI-V2?style=flat-square&color=green"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMselachui03%2Msela_Chui-Md&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
