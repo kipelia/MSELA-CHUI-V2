@@ -8,7 +8,7 @@
 <img src="https://telegra.ph/file/b5e8a490b30177df71db0.jpg"/> 
 <p align="center"><img src="https://profile-counter.glitch.me/{Eliakimtech03}/count.svg" alt="eliakimtech03:: Visitor's Count" /></p>
 <p align="center">
-<a href="https://github.com/Mselachui03/followers"><img title="Followers" src="https://img.shields.io/github/followers/Eliakimtech03?color=red&style=flat-square"></a>
+<a href="https://github.com/Eliakimtech03/followers"><img title="Followers" src="https://img.shields.io/github/followers/Eliakimtech03?color=red&style=flat-square"></a>
 <a href="https://github.com/Mselachui03/ELIAKIM_MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Mselachui03/ELIAKIM_MD?color=blue&style=flat-square"></a>
 <a href="https://github.com/Eliakimtech03/ELIAKIM_MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Eliakimtech03/ELIAKIM_MD?color=red&style=flat-square"></a>
 <a href="https://github.com/eliakimtech03/ELIAKIM_MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Eliakimtech03/ELIAKIM_MD?label=Watchers&color=blue&style=flat-square"></a>
