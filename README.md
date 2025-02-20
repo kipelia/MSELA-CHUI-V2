@@ -55,7 +55,7 @@
     <h2 align="center"> ⚠️ NOTE  </h2>
 ##ELIAKIM_MD SCRIPT IS NOT OPENLY ALLOWED TO USED IN ANY OF YOUR PROJECTS BE WARNED!!! 
 
-## ```Connect With Me```<img src="http://4.bp.blogspot.com/-XFYyg7bmXe0/UIU9Lt2jaNI/AAAAAAAABw8/UgxWDUoBkaw/s1600/imghippo.com/i/xPf6286zw.jpg">
+## ```Connect With Me```<img src="https://www.imghippo.com/i/xPf6286zw.jpg">
  <br> 
 <p align="center">
 <a href="https://wa.me/254745931715"><img src="https://img.shields.io/badge/Contact Eliakim-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
